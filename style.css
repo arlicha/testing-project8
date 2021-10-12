@@ -1,0 +1,23 @@
+.flower {
+    width: 200px;
+    background-color: red;
+    line-height: 50px;
+    text-align: center;
+    border: 1px solid rgb(161, 14, 63);
+    padding: 8px;
+    border-radius: 20pxpx;
+    color: white;
+    font-size: 34px;
+    margin: auto;
+    margin-top: 90px;
+    text-decoration: none;
+    -o-transition: .5s;
+    -ms-transition .5s;
+    -o-transition: .5s;
+}
+
+.flower:hover {
+    background-color: lightgreen;
+    text-shadow: 5px 3px 3px red;
+    border-radius: 20px
+}
